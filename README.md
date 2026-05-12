@@ -7,7 +7,7 @@ Systems Engineer focused on ML Infrastructure and High-Performance Computing. I 
 
 ### Technical Expertise
 
-* **Languages:** C/C++ 20, Python, Bash
+* **Languages:** C/C++ 20, Python
 * **Optimization & Inference:** OpenVINO, RVV (RISC-V Vector), Winograd, GEMM, im2col, JIT-compilation
 * **ML Frameworks:** PyTorch, TensorFlow, CatBoost, XGBoost
 * **Infrastructure:** Linux (WSL2), Docker, CMake, CI/CD, GTest
