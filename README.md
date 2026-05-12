@@ -25,7 +25,7 @@ Systems Engineer focused on ML Infrastructure and High-Performance Computing. I 
 
 ### Education & Links
 
-* **University:** IITMM UNN (Lobachevsky University), CS (FIIT).
+* **University:** IITMM UNN (Lobachevsky University), CS (FIIT), Department of High-Performance Computing and System Programming.
 * **Telegram:** @idolnot4u
 * **LinkedIn:** [linkedin.com/in/strelkovkm](https://www.linkedin.com/in/strelkovkm)
 * **GitVerse:** [gitverse.ru/strelkovkm](https://gitverse.ru/strelkovkm)
