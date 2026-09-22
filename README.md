@@ -16,7 +16,7 @@ Systems Engineer focused on ML Infrastructure and High-Performance Computing. I 
 
 ### Key Professional Experience
 
-* **OpenVINO:** Optimized neural network inference for RISC-V architecture. Developed high-performance GEMM and RVV kernels, resulting in a 6x performance increase for specific layers.
+* **OpenVINO:** Optimized neural network inference for RISC-V architecture. Developed high-performance GEMM and RVV kernels, resulting in a 100x performance increase for specific layers.
 * **Adept (Personal Project):** Developed an Automatic Differentiation Engine. Implemented the Winograd algorithm for 3x3 kernels, achieving 2.25x - 3x speedup during the inference stage.
 * **Yandex ML Training:** Successfully completed Series 1.0, 2.0, and 3.0. Currently focusing on Reinforcement Learning (ML 4.0).
 
