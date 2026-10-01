@@ -17,11 +17,6 @@ Compiler and Systems Engineer specializing in MLIR-based code generation pipelin
 
 ### Key Projects & Experience
 
-* **Cross-Platform Vulkan Shader Compiler (MLIR to SPIR-V Pipeline):**
-  * Architected an autonomous lowering pipeline transforming high-level declarative `linalg.generic` operations into validated Vulkan 1.3 compute shaders (`.spv`).
-  * Implemented custom MLIR passes for GPU scheduling, dynamic bounds checking (`scf.if`), and multi-dimensional coordinate reconstruction supporting arbitrary 2D broadcasting.
-  * Designed deterministic Vulkan Shader ABI materialization (Descriptor Sets, Storage Buffers, Local Workgroup specialization) and verified bit-exact numerical execution via custom headless Vulkan compute runner.
-
 * **OpenVINO (Intel / Open Source):**
   * Enabled neural network inference optimization for RISC-V hardware architectures.
   * Designed and tuned high-performance GEMM kernels and native RVV vector microkernels, delivering up to a **100x speedup** on compute-bound layers.
