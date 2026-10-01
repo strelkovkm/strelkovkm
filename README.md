@@ -1,5 +1,5 @@
 # Kirill Strelkov
-**ML Infrastructure Engineer**
+**AI Compiler && Infrastructure Engineer**
 
 Systems Engineer focused on ML Infrastructure and High-Performance Computing. I specialize in designing extensible inference engines and optimizing neural network kernels (C++, RVV) using advanced mathematical techniques like Winograd and GEMM.
 
