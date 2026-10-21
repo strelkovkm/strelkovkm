@@ -1,5 +1,5 @@
 # Kirill Strelkov
-**AI Compiler & Systems Engineer**
+**AI Infrastructure & Compiler Engineer**
 
 Compiler and Systems Engineer specializing in MLIR-based code generation pipelines, cross-platform neural network acceleration, and hardware-oriented graph transformations. Experienced in progressive IR lowering (Linalg → GPU → SPIR-V), extensible inference engines, and mathematical acceleration techniques (Winograd, GEMM, RVV).
 
